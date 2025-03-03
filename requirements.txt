@@ -21,6 +21,7 @@ requests==2.32.3
 safetensors==0.5.2
 SQLAlchemy==2.0.38
 tokenizers==0.21.0
+torch
 tqdm==4.67.1
 transformers==4.49.0
 typing_extensions==4.12.2
